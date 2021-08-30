@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>「区块链｜加密货币」- 每日一记</title>
+    <title>「区块链｜加密货币」~~ 每日一记</title>
     <link>http://crytptoecon.github.io/</link>
-    <description>Recent content on 「区块链｜加密货币」- 每日一记</description>
+    <description>Recent content on 「区块链｜加密货币」~~ 每日一记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Aug 2021 09:56:45 +0800</lastBuildDate><atom:link href="http://crytptoecon.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -13,18 +13,20 @@
       <pubDate>Mon, 30 Aug 2021 09:56:45 +0800</pubDate>
       
       <guid>http://crytptoecon.github.io/posts/second/</guid>
-      <description>这是我的第二季</description>
+      <description>我的第二季</description>
     </item>
     
     <item>
-      <title>这是我的第一记</title>
+      <title>第一记</title>
       <link>http://crytptoecon.github.io/posts/first/</link>
       <pubDate>Mon, 30 Aug 2021 09:29:04 +0800</pubDate>
       
       <guid>http://crytptoecon.github.io/posts/first/</guid>
-      <description>This is my first post
- 中本聪说过，
- 欧文·费雪说，货币数量论</description>
+      <description>最初听说比特币的时候，我没有关心，觉得最多是一场闹剧。
+但2017年，以太坊的出现，尤其是智能合约的兴起，让我开始对加密货币刮目相看。
+直觉告诉我，加密货币借助智能合约这一神器，可以改造和颠覆过去人类两百多年建立起来的社会经济制度。
+我时刻关注着加密货币的进展，同时也有很多的思考，很想找个地方把这些点点滴滴记下来。不为别的，只为日后有一个可以回顾的地方。
+于是，有了这个博客。</description>
     </item>
     
   </channel>
