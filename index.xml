@@ -1,20 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>「区块链｜加密货币」~~ 每日一记</title>
+    <title>「区块链｜加密货币」~~ 随记</title>
     <link>https://cryptoecon.github.io/</link>
-    <description>Recent content on 「区块链｜加密货币」~~ 每日一记</description>
+    <description>Recent content on 「区块链｜加密货币」~~ 随记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 30 Aug 2021 09:56:45 +0800</lastBuildDate><atom:link href="https://cryptoecon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Aug 2021 10:48:42 +0800</lastBuildDate><atom:link href="https://cryptoecon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>03</title>
+      <link>https://cryptoecon.github.io/posts/third/</link>
+      <pubDate>Tue, 31 Aug 2021 10:48:42 +0800</pubDate>
+      
+      <guid>https://cryptoecon.github.io/posts/third/</guid>
+      <description>货币是一种度量单位，与米、吨、瓦特这样的物理单位是一回事。只不过前者度量的是产品的交换比例，而后者度量的是物体的各种自然属性。
+经济学上，产品之间的交换比例也代表着产品之间的相对价格。因为货币的出现，相对价格的“相对”可以去掉，我们在交易中只需知道物品的绝对价格(或名义价格、货币价格）。
+猪肉一斤卖10元钱，10元人民币的数量单位代表的就是猪肉的价格。如果牛肉一斤卖100元，猪肉和牛肉之间的相对价格便是1比10，或10:1。
+对于人来说，要记住众多产品之间的相对价格，是一件非常困难的事情。
+ n种产品有n个绝对价格，但相对价格可能是n(n-1)个。
+ 如果人脑胜过电脑，可以记住所有物品之间的相对价格，货币是不需要的。</description>
+    </item>
+    
     <item>
       <title>02</title>
       <link>https://cryptoecon.github.io/posts/second/</link>
       <pubDate>Mon, 30 Aug 2021 09:56:45 +0800</pubDate>
       
       <guid>https://cryptoecon.github.io/posts/second/</guid>
-      <description>中国的股市在90年代红到发紫。房市是从2000年开始一路暴涨，至今持续了20多年。2009年，比特币横空出世，上涨之凶猛，世所罕见。在比特币的影响下，十多年来，各种加密货币相继涌现出来，暴富神话比比皆是。
-这样的机遇，一个人一生中能遇到一次已经算很不容易了。但八十年代前出生的中国人可以在短短的三十多年间里亲历三次，而且三次是一次比一次夸张。这是一个不可思议的时代。</description>
+      <description>中国股市在90年代红到发紫。2000年房市开始一路暴涨，至今持续了20多年。比特币于2009年横空出世，上涨之凶猛，世所罕见。十多年来，各种加密货币相继涌现，暴富神话比比皆是。
+这样的机遇，一个人一生中能遇到一次已属幸运。
+然而，八十年代前出生的中国人在短短的三十多年间里亲历了三次，而且这三次是一次比一次夸张。真是一个不可思议的时代。</description>
     </item>
     
     <item>
@@ -23,10 +38,10 @@
       <pubDate>Mon, 30 Aug 2021 09:29:04 +0800</pubDate>
       
       <guid>https://cryptoecon.github.io/posts/first/</guid>
-      <description>最初知道比特币的时候，我没有太关心，觉得最多是又一场闹剧。但2017年以太坊的爆发，尤其是智能合约的出现，让我开始对加密货币刮目相看。
-直觉告诉我，加密货币与智能合约开启了前无古人的去中心化交易方式，必将颠覆人类过去两百多年建立起来的社会经济制度。
-自2017年，我开始密切关注加密货币的发展，每有所思所想，总想找个地方记下来。不为别的，只为自己日后有一个可以回顾的地方，以检视和提升自己的判断力。
-于是，有了这个博客。希望可以坚持写下去。</description>
+      <description>比特币刚出来的时候，我没有太当回事，觉得它是一群不懂货币的码农弄出来的恶作剧。直到2017年以太坊爆发，尤其是智能合约的出现，我才开始对加密货币刮目相看。
+经济学直觉告诉我，有了智能合约，加密货币必将颠覆或改造人类过去两百多年建立起来的社会经济制度。
+2017年以来，我一直关注着加密货币的发展，每有所思所想，总想找个地方记下来。不为别的，只为自己日后有一个可以回顾的地方，以检视和提升自己的判断力，不要再犯错误。
+希望自己可以坚持下去。</description>
     </item>
     
   </channel>
