@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cryptoecon.github.io/posts/whymoney/</loc>
-    <lastmod>2021-08-31T10:48:42+08:00</lastmod>
+    <loc>https://cryptoecon.github.io/posts/04/</loc>
+    <lastmod>2021-09-01T15:47:32+08:00</lastmod>
   </url><url>
     <loc>https://cryptoecon.github.io/posts/</loc>
-    <lastmod>2021-08-31T10:48:42+08:00</lastmod>
+    <lastmod>2021-09-01T15:47:32+08:00</lastmod>
   </url><url>
     <loc>https://cryptoecon.github.io/</loc>
+    <lastmod>2021-09-01T15:47:32+08:00</lastmod>
+  </url><url>
+    <loc>https://cryptoecon.github.io/posts/whymoney/</loc>
     <lastmod>2021-08-31T10:48:42+08:00</lastmod>
   </url><url>
     <loc>https://cryptoecon.github.io/posts/second/</loc>

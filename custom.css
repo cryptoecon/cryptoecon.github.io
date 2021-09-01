@@ -6,10 +6,10 @@
 
 
 .head{
-	
+
 }
 .nav-title {
-	font-size: 30px;
+	font-size: 25px;
 	font-family: 'Long Cang', cursive;
 }
 
@@ -17,11 +17,10 @@
 	font-size: 20px;
 }
 .catalogue-line {
-	background: rgb(20, 9, 9);
+	font-size: small;
 }
 .post-title {
-	font-size: 25px;
-
+	font-size: 20px;
 }
 
 
