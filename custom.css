@@ -1,7 +1,28 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Long+Cang&display=swap" rel="stylesheet">
+
+
+
+
+.head{
+	
+}
+.nav-title {
+	font-size: 30px;
+	font-family: 'Long Cang', cursive;
+}
+
 .catalogue-title {
 	font-size: 20px;
 }
-
-.post-title {
-	font-size: 30px;	
+.catalogue-line {
+	background: rgb(20, 9, 9);
 }
+.post-title {
+	font-size: 25px;
+
+}
+
+
+

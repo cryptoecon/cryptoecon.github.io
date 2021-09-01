@@ -9,10 +9,10 @@
     <lastBuildDate>Tue, 31 Aug 2021 10:48:42 +0800</lastBuildDate><atom:link href="https://cryptoecon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>03 为什么有货币？</title>
-      <link>https://cryptoecon.github.io/posts/third/</link>
+      <link>https://cryptoecon.github.io/posts/whymoney/</link>
       <pubDate>Tue, 31 Aug 2021 10:48:42 +0800</pubDate>
       
-      <guid>https://cryptoecon.github.io/posts/third/</guid>
+      <guid>https://cryptoecon.github.io/posts/whymoney/</guid>
       <description>度量工具 货币与米、斤、升、瓦特等本质上是一回事，都是度量单位。区别仅在于，物理单位度量的是物体的自然属性，而货币度量的是产品之间的交换比例。
 交换比与相对价格 产品的交换比例代表着产品之间的相对价格，随着市场的供需不断发生着变化。因为货币的出现，相对价格的“相对”可以去掉，交易中只需知道物品以货币度量的绝对价格(或名义价格）。假如猪肉一斤10元钱，牛肉一斤100元，猪肉和牛肉的绝对价格分别是10元和100元，而它们之间的相对价格则是1：10，以及10:1。这时的绝对价格的数量与相对价格的数量是相当的。然而，一旦产品的总量&amp;gt;2，相对价格的数量将会快速超过绝对价格的数量。
  n种产品有n个绝对价格，但相对价格将会是n(n-1)个。
