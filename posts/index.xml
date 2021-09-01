@@ -8,54 +8,39 @@
     <language>zh-cn</language>
     <lastBuildDate>Wed, 01 Sep 2021 15:47:32 +0800</lastBuildDate><atom:link href="https://cryptoecon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>04 NFT</title>
-      <link>https://cryptoecon.github.io/posts/04/</link>
+      <title>NFT</title>
+      <link>https://cryptoecon.github.io/posts/nft/</link>
       <pubDate>Wed, 01 Sep 2021 15:47:32 +0800</pubDate>
       
-      <guid>https://cryptoecon.github.io/posts/04/</guid>
-      <description>最近NFT很火，还吸引了不少名人以及大企业的入局。但也有不少人认为，NFT纯属炒作，主要是用来洗钱。这样的看法有点想当然，洗钱的办法多如牛毛，何必非要用NFT？
-NFT与Token类似，都是区块链上的一串数字，区别仅在于：Token是同质的，而NFT是异质的。同质的Token适于传统世界中货币和股权的数字化，而异质的NFT更适合土地、房产以及收藏品等这些具有个性化资产的数字化。
-传统世界中的各类资产上链是一个非常漫长的过程，没有第三方认证或担保机构以及相关法律的建立，数字化代币或NFT几乎很难取代传统资产的所有权证书。再考虑到政府对加密货币以及去中心化交易的敌视态度，传统资产上链目前来看是一件不可能的事情。
-不过，数字化资产，比如游戏道具、音乐、视频等，甚至传统的字画收藏品，用NFT的形式上链还是一件比较容易的事情。但前提条件是，需要有第三方机构来确保NFT所代表的资产的真实性和唯一性（目前有团队这么做）。
-技术上，图片、音频或视频等形式的数字资产是无法上链的，或者说上链的成本很高。区块链技术尽管可以确保NFT不发生“双花”，但无法杜绝NFT所代表的数字资产“双花”问题，因为数字化文件很容易被复制。如果不引入第三方机构，这个问题不可能有解。
-这里引入第三方机构与去中心化愿景并不矛盾。传统资产的所有权原本就是中心化的，与比特币等加密货币完全不同，所以很难实现完整意义上的去中心化。但只要上了链，这些资产的交易至少可以做到去中心化。
-从长远来看，传统资产上链才是目标更为宏大的去中心化革命。也许，现在的NFT火热只是一个前奏吧，路还很长。</description>
+      <guid>https://cryptoecon.github.io/posts/nft/</guid>
+      <description>&lt;p&gt;最近NFT很火，还吸引了不少名人以及大企业的入局。但也有不少人认为，NFT纯属炒作，主要是用来洗钱。这样的看法有点想当然，洗钱的办法多如牛毛，何必非要用NFT？&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>03 为什么有货币？</title>
+      <title>为什么有货币？</title>
       <link>https://cryptoecon.github.io/posts/whymoney/</link>
       <pubDate>Tue, 31 Aug 2021 10:48:42 +0800</pubDate>
       
       <guid>https://cryptoecon.github.io/posts/whymoney/</guid>
-      <description>度量工具 货币与米、斤、升、瓦特等本质上是一回事，都是度量单位。区别仅在于，物理单位度量的是物体的自然属性，而货币度量的是产品之间的交换比例。
-交换比与相对价格 产品的交换比例代表着产品之间的相对价格，随着市场的供需不断发生着变化。因为货币的出现，相对价格的“相对”可以去掉，交易中只需知道物品以货币度量的绝对价格(或名义价格）。假如猪肉一斤10元钱，牛肉一斤100元，猪肉和牛肉的绝对价格分别是10元和100元，而它们之间的相对价格则是1：10，以及10:1。这时的绝对价格的数量与相对价格的数量是相当的。然而，一旦产品的总量&amp;gt;2，相对价格的数量将会快速超过绝对价格的数量。
- n种产品有n个绝对价格，但相对价格将会是n(n-1)个。
- 货币的由来 理论上，如果人脑堪比电脑，可以很容易记住不同物品之间的相对价格，从而轻松做到“货比三家”，货币是不需要的。正是因为人的脑力有限，为了减少不必要的麻烦（也是节省交易费用），才有了货币这样一种东西。
-鲁迅说，世上本没有路，人走的多了便有了路。货币也是如此。</description>
+      <description>&lt;p&gt;货币与米、斤、升、瓦特等本质上是一回事，都是度量单位。区别仅在于，物理单位度量的是物体的自然属性，而货币度量的是产品之间的交换比例。&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>02</title>
+      <title>这是一个不可思议的时代</title>
       <link>https://cryptoecon.github.io/posts/second/</link>
       <pubDate>Mon, 30 Aug 2021 09:56:45 +0800</pubDate>
       
       <guid>https://cryptoecon.github.io/posts/second/</guid>
-      <description>中国股市在90年代红到发紫。房市从2000年开始一路暴涨，至今持续了20多年。比特币于2009年横空出世，上涨之凶猛，世所罕见。十多年来，各种加密货币相继涌现，暴富神话比比皆是。
-这样的机遇，一个人一生中能遇到一次已属幸运。
-然而，八十年代前出生的中国人在短短的三十多年间里亲历了三次，而且一次比一次夸张。这是一个不可思议的时代。</description>
+      <description>&lt;p&gt;中国股市在90年代红到发紫。房市从2000年开始一路暴涨，至今持续了20多年。比特币于2009年横空出世，上涨之凶猛，世所罕见。十多年来，各种加密货币相继涌现，暴富神话比比皆是。&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>01</title>
+      <title>希望自己可以坚持写下去</title>
       <link>https://cryptoecon.github.io/posts/first/</link>
       <pubDate>Mon, 30 Aug 2021 09:29:04 +0800</pubDate>
       
       <guid>https://cryptoecon.github.io/posts/first/</guid>
-      <description>比特币刚出来的时候，我没有太当回事，觉得它是一群不懂货币的码农弄出来的恶作剧。直到2017年以太坊爆发，尤其是智能合约的出现，我才开始对加密货币刮目相看。
-经济学直觉告诉我，有了智能合约，加密货币必将颠覆或改造人类过去两百多年建立起来的社会经济制度。
-2017年以来，我一直关注着加密货币的发展，每有所思所想，总想找个地方记下来。不为别的，只为自己日后有一个可以回顾的地方，以检视和提升自己的判断力。不要再犯错误。
-希望自己可以坚持下去。</description>
+      <description>&lt;p&gt;比特币刚出来的时候，我没有太当回事，觉得它是一群不懂货币的码农弄出来的恶作剧。直到2017年以太坊爆发，尤其是智能合约的出现，我才开始对加密货币刮目相看。&lt;/p&gt;</description>
     </item>
     
   </channel>
