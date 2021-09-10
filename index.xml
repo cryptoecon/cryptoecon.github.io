@@ -6,14 +6,24 @@
     <description>Recent content on 「区块链 &#43; 加密货币」- 随记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 09 Sep 2021 09:25:28 +0800</lastBuildDate><atom:link href="https://cryptoecon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Sep 2021 10:52:20 +0800</lastBuildDate><atom:link href="https://cryptoecon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>近期行情的性质</title>
+      <link>https://cryptoecon.github.io/posts/market/</link>
+      <pubDate>Fri, 10 Sep 2021 10:52:20 +0800</pubDate>
+      
+      <guid>https://cryptoecon.github.io/posts/market/</guid>
+      <description>&lt;p&gt;总体来说，今年的行情与2017年那一轮行情没有什么太大的区别，主要还是以投机为主，离加密货币的大规模普及（Mass adoption)还有一段距离。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Defi的收益来自何处？</title>
       <link>https://cryptoecon.github.io/posts/interest/</link>
       <pubDate>Thu, 09 Sep 2021 09:25:28 +0800</pubDate>
       
       <guid>https://cryptoecon.github.io/posts/interest/</guid>
-      <description>&lt;p&gt;常常思考一个问题：除了去中心化之外，Defi与传统金融到底是不是同一个东西？&lt;/p&gt;</description>
+      <description>&lt;p&gt;常常思考一个问题，除了去中心化之外，Defi与传统金融究竟有什么不同？&lt;/p&gt;
+&lt;p&gt;传统金融主要是指资金的借贷和融通，而Defi更多的是关于去中心化交易的基础性协议设施。&lt;/p&gt;</description>
     </item>
     
     <item>
